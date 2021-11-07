@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lloret cambio user1
+=======
+lloret cambio user2
+>>>>>>> origin/master
